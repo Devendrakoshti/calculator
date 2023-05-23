@@ -23,7 +23,7 @@
 .main .top {
     height: 90px;
     width: 400px;
-    background-color: rgb(29, 29, 29);
+    /* background-color: rgb(29, 29, 29); */
 }
 
 .main .center {
